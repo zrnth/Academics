@@ -40,7 +40,6 @@ Some of the resources and materials in this repository (such as notes, lab tasks
 
 ## 📧 Contact
 
-**Zarin**  
 Graduate Student, CSE  
 **BRAC University**  
 GitHub:[https://github.com/zrnth]

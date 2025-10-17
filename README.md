@@ -40,5 +40,5 @@ Visit the department site for updated course details: [https://cse.sds.bracu.ac.
 **Zarin**  
 Graduate Student, CSE  
 **BRAC University**  
-GitHub: [github.com/zrnth]
+GitHub:[github.com/zrnth]
 LinkedIn:[https://www.linkedin.com/in/zrnth]

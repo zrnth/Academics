@@ -1,9 +1,10 @@
 
 Each course folder includes:
-- Course summary  
-- Notable assignments and projects  
-- Code samples and documentation  
-- Personal notes or reflections (if any)
+- Course summary.  
+- Notable assignments and projects.  
+- Code samples and documentation.  
+- Personal notes or reflections.
+- Collected Academic Resources.
 
 ---
 
@@ -33,7 +34,9 @@ This repository serves as:
 Course materials and syllabi are based on the **official BRAC University Department of Computer Science and Engineering (CSE)** curriculum.  
 Visit the department site for updated course details: [https://cse.sds.bracu.ac.bd](https://cse.sds.bracu.ac.bd)
 
----
+## Disclaimer:
+Some of the resources and materials in this repository (such as notes, lab tasks, or sample solutions) were collected from classmates, seniors, and open academic sources. They are shared only for educational and reference purposes — to help future students understand the coursework better. Full credit goes to the original authors and contributors. If any content needs to be removed or credited differently, please feel free to contact me.---
+
 
 ## 📧 Contact
 

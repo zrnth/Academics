@@ -43,5 +43,5 @@ Some of the resources and materials in this repository (such as notes, lab tasks
 **Zarin**  
 Graduate Student, CSE  
 **BRAC University**  
-GitHub:[github.com/zrnth]
+GitHub:[https://github.com/zrnth]
 LinkedIn:[https://www.linkedin.com/in/zrnth]
